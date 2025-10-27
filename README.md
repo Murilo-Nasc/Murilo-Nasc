@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hey, I'm Murilo! 👋
 
-<!--
-**Murilo-Nasc/Murilo-Nasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Computer Engineering student at **Centro Universitário FEI**
+- 🤖 Member of **RoboFEI @Home**, developing domestic robotics systems using **ROS2**
+- 🧠 Always curious and excited to learn new technologies!
 
-Here are some ideas to get you started:
+## Programming Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <sub>Python • C • C++ • Java • JavaScript</sub>
+</p>
+
+## Tools & Technologies
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,postgresql,sqlite,mongodb,markdown,linux,ros,arduino,nodejs,react" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>HTML • CSS • PostgreSQL • SQLite • MongoDB • Markdown • Linux • ROS2 • Arduino • Node.js • React</sub>
+</p>
+
+## Featured Projects
+
+### 🎮 [Turn-based RPG in C](https://github.com/Murilo-Nasc/proj-rpg-c)
+> A text-based turn RPG built entirely in **C**, with structured data handling and a modular design.
+
+### 🎧 [SpotiFei in Java](https://github.com/Murilo-Nasc/SpotiFei-Java)
+> A small music app inspired by Spotify, made with **Java (MVC architecture)** and **PostgreSQL integration**.
+
+## Contact
+<p align="center">
+  <a href="https://www.linkedin.com/in/murilo-nascimento-14b356336/">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" />
+  </a>
+  </br>
+  <a href="mailto:murilogoncalvesnascimento@gmail.com">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Feel free to reach out — I’m always up to talk about software, tech and robotics!</sub>
+</p>

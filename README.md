@@ -1,9 +1,9 @@
-# Hey, I'm Murilo! 👋
+# Hey, I'm Murilo!
 
 ## About Me
-- 🎓 Computer Engineering student at **Centro Universitário FEI**
-- 🤖 Member of **RoboFEI @Home**, developing domestic robotics systems using **ROS2**
-- 🧠 Always curious and excited to learn new technologies!
+- Computer Engineering student at **Centro Universitário FEI**
+- Member of **RoboFEI @Home**, developing domestic robotics systems using **ROS2**
+- Always curious and excited to learn new technologies!
 
 ## Programming Languages
 <p align="center">
@@ -29,10 +29,10 @@
 
 ## Featured Projects
 
-### 🎮 [Turn-based RPG in C](https://github.com/Murilo-Nasc/proj-rpg-c)
+### [Turn-based RPG in C](https://github.com/Murilo-Nasc/proj-rpg-c)
 > A text-based turn RPG built entirely in **C**, with structured data handling and a modular design.
 
-### 🎧 [SpotiFei in Java](https://github.com/Murilo-Nasc/SpotiFei-Java)
+### [SpotiFei in Java](https://github.com/Murilo-Nasc/SpotiFei-Java)
 > A small music app inspired by Spotify, made with **Java (MVC architecture)** and **PostgreSQL integration**.
 
 ## Contact

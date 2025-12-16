@@ -19,12 +19,12 @@
 ## Tools & Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,postgresql,sqlite,mongodb,firebase,linux,ros,arduino,nodejs,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,postgresql,sqlite,mongodb,firebase,linux,ros,arduino,nodejs,react,aws" />
   </a>
 </p>
 
 <p align="center">
-  <sub>HTML • CSS • PostgreSQL • SQLite • MongoDB • Firebase • Linux • ROS2 • Arduino • Node.js • React</sub>
+  <sub>HTML • CSS • PostgreSQL • SQLite • MongoDB • Firebase • Linux • ROS2 • Arduino • Node.js • React • AWS</sub>
 </p>
 
 ## Featured Projects
